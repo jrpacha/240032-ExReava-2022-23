@@ -223,3 +223,6 @@ TSWLatexianTemp*
 
 # expex forward references with \gathertags
 *-tags.tex
+
+# Exclude .DS_Store: Desktop Services Store (macOS)
+.DS_Store
